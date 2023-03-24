@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="QueryDB.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="CompanyModel.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="IndividualModel.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="JPModel.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="CVModel.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="QueryDB.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
