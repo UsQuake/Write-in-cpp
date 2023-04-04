@@ -24,6 +24,7 @@
     <ProjectGuid>{7e178bfb-cd38-4bc2-a40e-b931bcdb0c18}</ProjectGuid>
     <RootNamespace>RISCVINSTEMULATOR</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>RISCV_Pipeline_Simulator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
